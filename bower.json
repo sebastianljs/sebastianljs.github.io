@@ -1,0 +1,24 @@
+{
+  "name": "First_Personal_Website",
+  "authors": [
+    "Sebastian Lin <jersheng.lin@duke.edu>"
+  ],
+  "description": "My first personal website",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "components-font-awesome": "^4.7.0",
+    "less": "^2.7.2"
+  }
+}
